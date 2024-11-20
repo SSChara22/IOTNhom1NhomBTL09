@@ -1,4 +1,4 @@
-# IOT Project
+# IOT Project Nhóm 09 Thầy Bách
 Đây là một website cho hệ thống IoT dùng cho việc hiển thị các thông số nhiệt độ, độ ẩm, ánh sáng và điều khiển bật/tắt các thiết bị trong nhà.
 ## Hướng dẫn chạy
 ### Bước 1: Cài đặt MQTT Broker
